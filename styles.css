@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    font-family: '맑은 고딕', sans-serif;
+    background: #f6f6f6;
+    margin: 0;
+    padding: 10px;
+    width: 700px;
+    font-size: 16px;
+}
+
+h1 { color: #333; }
+.ex_box { background: #fff; border: 1px solid #ccc; padding: 10px; border-radius: 10px 10px 0 0; }
+.ip { font-size: 22px; width: 100%; padding: 8px; box-sizing: border-box; }
+.dp_box { font-weight: bold; }
+.grp1 { display: block; height: 15px; background: #0076a3; }
+table { width: 100%; border-collapse: collapse; }
+th, td { padding: 4px; text-align: left; }
+th { white-space: nowrap; width: 100px; }
+
+
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.footer {
+    border-radius: 0 0 10px 10px;
+    background: #0076a3;
+    color: #fff;
+    font-size: 14px;
+    text-align: center;
+    padding: 10px;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
